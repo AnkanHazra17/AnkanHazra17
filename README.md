@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AnkanHazra17/AnkanHazra17/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Ankan Hazra</h1>
 <h3 align="center">A passionate Full Stack Developer and Java Programmer from India</h3>
 
